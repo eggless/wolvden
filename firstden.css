@@ -1,0 +1,62 @@
+@-moz-document url-prefix("https://www.wolvden.com/den/39262") {
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital@1&display=swap');
+
+/* main background and fonts */
+
+body {
+    background-image:
+        url('https://i.imgur.com/gZJsC9T.png');
+        background-size: cover
+}
+body {
+    font-family: Nunito, Calibri;
+}
+*{
+    cursor: url(https://ani.cursors-4u.net/nature/nat-11/nat1046.cur), default!important;
+}
+
+/* sidebar */
+
+#sidebar {
+    background: #445544bd
+}
+#sidebar .card {
+    background: #39373778
+}
+
+/* main body */
+
+#main {
+    background: #445544bd
+}
+.nav-tabs{
+    background: #31292903
+}
+.nav-tabs .nav-link{
+    background: #31292942
+}
+.nav-tabs .nav-link.active{
+    background: #31292942
+}
+.table{
+    background: #3e624229
+}
+.table th{
+    background: #8bcc79ad
+}
+.subheader{
+    background: #ffffffb3
+}
+.border-none{
+    background: #8e9d8c69
+}
+
+/* alerts and progress bars */
+
+.alert{
+    background: #b4e1aa66;
+        border:#2939b303;
+            color: #9df9a1
+}
+
+/* footer */
